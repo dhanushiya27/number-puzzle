@@ -1,7 +1,7 @@
 # Project Title : numerical puzzle 
 ### Batch NO : 17
 ### Mentor Name : Ms. R JAYASHREE
-### Github Link : https://github.com/dhanushiya27/numerical-puzzle
+### Github Link : https://github.com/dhanushiya27/number-puzzle/tree/master
 ### Team Details :
 | S.no  | Name  | Roll Number  | Email Id  |
 |-------|-------|--------------|-----------|
